@@ -1,0 +1,164 @@
+{
+    "特殊記号のコード変換[:]": {
+        "scope": "ejs,html",
+        "prefix": "：",
+        "body": ["&#0058;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[<]": {
+        "scope": "ejs,html",
+        "prefix": "<",
+        "body": ["&#x3C;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[>]": {
+        "scope": "ejs,html",
+        "prefix": ">",
+        "body": ["&#x3E;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[&]": {
+        "scope": "ejs,html",
+        "prefix": "&",
+        "body": ["&#x26;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[©]": {
+        "scope": "ejs,html",
+        "prefix": "©",
+        "body": ["&#xA9;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[®]": {
+        "scope": "ejs,html",
+        "prefix": "®",
+        "body": ["&#xAE;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[™]": {
+        "scope": "ejs,html",
+        "prefix": "™",
+        "body": ["&#x2122;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[”]": {
+        "scope": "ejs,html",
+        "prefix": "”",
+        "body": ["&#x22;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[’]": {
+        "scope": "ejs,html",
+        "prefix": "’",
+        "body": ["&#x27;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[;]": {
+        "scope": "ejs,html",
+        "prefix": ";",
+        "body": ["&#x3B;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[ ]": {
+        "scope": "ejs,html",
+        "prefix": " ",
+        "body": ["&#xA0;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[+]": {
+        "scope": "ejs,html",
+        "prefix": "+",
+        "body": ["&#x2B;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[−]": {
+        "scope": "ejs,html",
+        "prefix": "−",
+        "body": ["&#x2212;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[×]": {
+        "scope": "ejs,html",
+        "prefix": "×",
+        "body": ["&#xD7;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[÷]": {
+        "scope": "ejs,html",
+        "prefix": "÷",
+        "body": ["&#xF7;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[=]": {
+        "scope": "ejs,html",
+        "prefix": "=",
+        "body": ["&#x3D;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[¥]": {
+        "scope": "ejs,html",
+        "prefix": "¥",
+        "body": ["&#x00A5;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[•]": {
+        "scope": "ejs,html",
+        "prefix": "•",
+        "body": ["&#x2022;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[℡]": {
+        "scope": "ejs,html",
+        "prefix": "℡",
+        "body": ["&#x2121;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[▲]": {
+        "scope": "ejs,html",
+        "prefix": "▲",
+        "body": ["&#x25B2;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[△]": {
+        "scope": "ejs,html",
+        "prefix": "△",
+        "body": ["&#x25B3;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[▼]": {
+        "scope": "ejs,html",
+        "prefix": "▼",
+        "body": ["&#x25BC;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[▽]": {
+        "scope": "ejs,html",
+        "prefix": "▽",
+        "body": ["&#x25BD;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[◆]": {
+        "scope": "ejs,html",
+        "prefix": "◆",
+        "body": ["&#x25C6;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[○]": {
+        "scope": "ejs,html",
+        "prefix": "○",
+        "body": ["&#x25CB;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[●]": {
+        "scope": "ejs,html",
+        "prefix": "●",
+        "body": ["&#x25CF;"],
+        "description": "特殊記号のコード変換"
+    },
+    "特殊記号のコード変換[㈱]": {
+        "scope": "ejs,html",
+        "prefix": "㈱",
+        "body": ["&#x3231;"],
+        "description": "特殊記号のコード変換"
+    }
+}
